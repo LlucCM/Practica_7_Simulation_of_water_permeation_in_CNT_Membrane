@@ -1,0 +1,2 @@
+# Practica_7_Simulation_of_water_permeation_in_CNT_Membrane
+Simulation of water permeation in a CNT membrane
